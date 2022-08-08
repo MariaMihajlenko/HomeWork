@@ -1,0 +1,15 @@
+/Users/chuprinov.d/Desktop/HomWork/HW003/bin/Debug/net6.0/HW003
+/Users/chuprinov.d/Desktop/HomWork/HW003/bin/Debug/net6.0/HW003.deps.json
+/Users/chuprinov.d/Desktop/HomWork/HW003/bin/Debug/net6.0/HW003.runtimeconfig.json
+/Users/chuprinov.d/Desktop/HomWork/HW003/bin/Debug/net6.0/HW003.dll
+/Users/chuprinov.d/Desktop/HomWork/HW003/bin/Debug/net6.0/HW003.pdb
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/HW003.csproj.AssemblyReference.cache
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/HW003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/HW003.AssemblyInfoInputs.cache
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/HW003.AssemblyInfo.cs
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/HW003.csproj.CoreCompileInputs.cache
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/HW003.dll
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/refint/HW003.dll
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/HW003.pdb
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/HW003.genruntimeconfig.cache
+/Users/chuprinov.d/Desktop/HomWork/HW003/obj/Debug/net6.0/ref/HW003.dll

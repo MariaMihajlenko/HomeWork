@@ -1,0 +1,5 @@
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.csproj.AssemblyReference.cache
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.AssemblyInfoInputs.cache
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.AssemblyInfo.cs
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.csproj.CoreCompileInputs.cache
