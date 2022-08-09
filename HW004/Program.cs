@@ -1,16 +1,15 @@
 ﻿Console.WriteLine("Введите любое число ");
-int number = Convert.ToInt32(Console.ReadLine());
-int count = number;
+int N = Convert.ToInt32(Console.ReadLine());
+int a =1;
 
-while(true)
+while(a<=N)
 {
-if ((number % 2) == 0)
-
+if ((a % 2) == 0)
 
 {
     Console.WriteLine("Четные числа ряда до N");
-    Console.WriteLine(number  number-1);
+    Console.WriteLine(a);
 
 }
-Count=Count-1;
+a++;
 }

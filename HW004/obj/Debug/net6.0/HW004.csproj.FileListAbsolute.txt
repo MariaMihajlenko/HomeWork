@@ -3,3 +3,13 @@
 /Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.AssemblyInfoInputs.cache
 /Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.AssemblyInfo.cs
 /Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.csproj.CoreCompileInputs.cache
+/Users/chuprinov.d/Desktop/HomWork/HW004/bin/Debug/net6.0/HW004
+/Users/chuprinov.d/Desktop/HomWork/HW004/bin/Debug/net6.0/HW004.deps.json
+/Users/chuprinov.d/Desktop/HomWork/HW004/bin/Debug/net6.0/HW004.runtimeconfig.json
+/Users/chuprinov.d/Desktop/HomWork/HW004/bin/Debug/net6.0/HW004.dll
+/Users/chuprinov.d/Desktop/HomWork/HW004/bin/Debug/net6.0/HW004.pdb
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.dll
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/refint/HW004.dll
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.pdb
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/HW004.genruntimeconfig.cache
+/Users/chuprinov.d/Desktop/HomWork/HW004/obj/Debug/net6.0/ref/HW004.dll
